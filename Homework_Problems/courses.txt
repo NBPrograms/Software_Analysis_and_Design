@@ -1,0 +1,12 @@
+﻿ID,Topic,Description,Type 
+His101,History,History of Magic and Muggles,Required
+Eng101,English,Introduction to English,Required
+Eng102,English,English Writing,Required
+Mat101,Mathematics,College Algebra,Required
+Mat202,Mathematics,Calculus 1,Required
+Her101,Herbology,Introduction to Herbs for spells,Required
+Cha101,Charms,Introduction to Charms,Required
+Dark191,Dark Arts,Introduction to the Dark Art,Required
+Mug101,Muggle Studies,Introduction to Muggles,Elective
+Alc101,Alchemy,Introduction to Alchemy,Elective
+Mus101,Music,Introduction to Music,Elective

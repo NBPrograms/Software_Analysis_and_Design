@@ -1,0 +1,8 @@
+﻿Id,Year,First,Last,Courses Completed
+S101,2021,Harry,PotSome,Eng101;Eng102;Eng103;Her101;Mug101;Alc101
+S102,2021,Tom,Raddler,Eng101;Cha101;Eng102
+S103,2022,Janice,Joplin,Mus101;Eng101;His101
+S104,2020,Nelly,Newbie,
+S105,2022,Ryan,Ready,Eng101;Eng102;Mat101;Mat202;Her101;His101;Cha101;Alc101
+S106,2021,Sammie,Starter,Mus101
+S107,2022,Gail,GoodStudent,Mus101;Eng101;Eng102;Mat101;Mat202;Her101;His101;Cha101;Alc101
